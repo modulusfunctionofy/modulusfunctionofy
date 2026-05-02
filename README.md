@@ -49,7 +49,7 @@ Computer Science undergraduate with strong foundations in Data Structures, OOP, 
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,r&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark"/>
 </p>
 
 ---
