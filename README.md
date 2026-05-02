@@ -48,7 +48,7 @@ Computer Science undergraduate with strong foundations in Data Structures, OOP, 
 
 ### 1. Automated Answer Sheet Evaluator  
 🔗 **Live Demo:** https://drum-project-o4h3.onrender.com/  
-🔗 **GitHub Repository:** https://github.com/modulusfunctionofy/drum-project
+🔗 **GitHub Repository:** [https://github.com/modulusfunctionofy/drum-project](https://github.com/modulusfunctionofy/DuplexRetrievalUniMarkupSystem)
 
 Developed an OCR + NLP based evaluation system that extracts handwritten or printed answers from PDF/image submissions and compares them with reference answers using semantic similarity.
 
@@ -64,7 +64,7 @@ Developed an OCR + NLP based evaluation system that extracts handwritten or prin
 ---
 
 ### 2. Campus Course and Records Manager  
-🔗 **GitHub Repository:** https://github.com/modulusfunctionofy/Campus-Course-and-Records-Manager
+🔗 **GitHub Repository:** [https://github.com/modulusfunctionofy/Campus-Course-and-Records-Manager](https://github.com/modulusfunctionofy/campus-course-records-manager-24BAI10142)
 
 Built a modular Java-based CLI application for managing student records, courses, and enrollments through a layered architecture.
 
