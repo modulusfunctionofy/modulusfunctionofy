@@ -44,6 +44,39 @@ Computer Science undergraduate with strong foundations in Data Structures, OOP, 
 
 ---
 
+## Projects
+
+### 1. Automated Answer Sheet Evaluator  
+🔗 Live Demo: https://drum-project-o4h3.onrender.com/
+
+Developed an OCR + NLP based evaluation system that extracts handwritten or printed answers from PDF/image submissions and compares them with reference answers using semantic similarity.
+
+**Highlights:**
+- Used PaddleOCR for handwritten text extraction  
+- Applied NLTK preprocessing for cleaner analysis  
+- Used Sentence Transformers + Cosine Similarity  
+- Combined TF-IDF based keyword scoring  
+- Exported batch evaluation results to Excel  
+
+**Tech Stack:** Python, PaddleOCR, NLP, Sentence Transformers, OpenPyXL
+
+---
+
+### 2. Campus Course and Records Manager
+
+Built a modular Java-based CLI application for managing student records, courses, and enrollments through a layered architecture.
+
+**Highlights:**
+- Structured packages for scalability  
+- Service layers for operations and logic  
+- Singleton + Builder design patterns  
+- CSV persistence using Java NIO  
+- Menu-driven interactive interface  
+
+**Tech Stack:** Java, OOP, Java NIO, CLI, CSV
+
+---
+
 ## Technical Skills
 
 ### Programming Languages
