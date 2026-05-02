@@ -47,7 +47,8 @@ Computer Science undergraduate with strong foundations in Data Structures, OOP, 
 ## Projects
 
 ### 1. Automated Answer Sheet Evaluator  
-🔗 Live Demo: https://drum-project-o4h3.onrender.com/
+🔗 **Live Demo:** https://drum-project-o4h3.onrender.com/  
+🔗 **GitHub Repository:** https://github.com/modulusfunctionofy/drum-project
 
 Developed an OCR + NLP based evaluation system that extracts handwritten or printed answers from PDF/image submissions and compares them with reference answers using semantic similarity.
 
@@ -62,7 +63,8 @@ Developed an OCR + NLP based evaluation system that extracts handwritten or prin
 
 ---
 
-### 2. Campus Course and Records Manager
+### 2. Campus Course and Records Manager  
+🔗 **GitHub Repository:** https://github.com/modulusfunctionofy/Campus-Course-and-Records-Manager
 
 Built a modular Java-based CLI application for managing student records, courses, and enrollments through a layered architecture.
 
@@ -95,11 +97,7 @@ Built a modular Java-based CLI application for managing student records, courses
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge"/>
 
 </p>
 
@@ -131,6 +129,16 @@ Built a modular Java-based CLI application for managing student records, courses
 
 ---
 
+### Machine Learning & NLP
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/NLTK-000000?style=for-the-badge"/>
+
+</p>
+
+---
 ### Web and Documentation
 
 <p align="center">
@@ -138,7 +146,10 @@ Built a modular Java-based CLI application for managing student records, courses
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render"/>
 
 </p>
 
@@ -148,7 +159,8 @@ Built a modular Java-based CLI application for managing student records, courses
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite"/>
 
 </p>
 
@@ -164,21 +176,19 @@ Built a modular Java-based CLI application for managing student records, courses
 
 ---
 
-## Academic Interests
+## Achievements
 
-Broad interest in undergraduate mathematics and its applications in computing, including:
+- 🏆 Finalist at **Code-Wreck Hackathon 2025** conducted by VIT Bhopal, ranked in the **Top 10 out of 200+ teams**
+- 💻 Rated **Pupil** on **Codeforces** with a maximum rating of **1267** in only 7 contests  
+- 🌍 Achieved Global Rank **3k / 16k+** in Codeforces Educational Round 186 (Div. 2)  
+- 🌍 Achieved Global Rank **4.7k / 19k+** in Codeforces Round 1082 (Div. 2)  
+- 🥈 Secured **Silver Medal (Top 2%)** in **NPTEL – Programming with Generative AI**, ranked **59 out of 44k+ participants**  
+- 📈 Secured Global Rank **742** in GeeksforGeeks Weekly Coding Contest 171  
+- 🧠 Solved **400+ coding problems** across platforms including Codeforces, GeeksforGeeks, and LeetCode  
+- 🎓 Achieved **9.4 SGPA** in Semester 2 with a current **CGPA of 9.17**
 
-- Calculus (single-variable and multivariable)
-- Differential Equations
-- Linear Algebra
-- Discrete Mathematics and Graph Theory
-- Probability Theory and Statistics
-- Numerical Methods and Scientific Computing
-- Optimization Methods
-- Transform Methods (Fourier and Laplace)
-- Mathematical Foundations of Algorithms
 ---
-![](https://komarev.com/ghpvc/?username=AdityaAmanAir&style=flat-square)
+![](https://komarev.com/ghpvc/?username=modulusfunctionofy&style=flat-square)
 ## Note*
 **Most** repositories here contain **experiments**, **coursework**, or **small systems** built while learning new tools.
 <h2 align="right">AKA: Genesis</h2>
