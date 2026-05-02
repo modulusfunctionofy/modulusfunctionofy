@@ -32,7 +32,7 @@ VIT Bhopal University
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=84C2C0&center=true&vCenter=true&width=900&lines=Computer+Science+Student;C%2B%2B+and+Systems+Programming;Artificial+Intelligence+and+Machine+Learning;Algorithms+and+Computational+Mathematics;Calculus+and+Differential+Equations;Probability+and+Statistics;Linear+Algebra+and+Discrete+Mathematics;Numerical+Methods)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Computer+Science+Engineer;Competitive+Programmer;Java+%7C+Python+%7C+C%2B%2B+Developer;Artificial+Intelligence+%26+NLP;Full+Stack+Web+Development;Data+Structures+%26+Algorithms;Building+Projects+That+Matter)](https://git.io/typing-svg)
 
 </div> 
 
@@ -40,7 +40,7 @@ VIT Bhopal University
 
 ## Background
 
-Computer Science undergraduate with strong foundations in Data Structures, OOP, DBMS, and software development. Experienced in Java, Python, and full-stack technologies, with a proven track record in coding contests and project development.
+Computer Science undergraduate with strong foundations in Data Structures, OOP, DBMS, ML and Web development. Experienced in Java, Python, and full-stack technologies, with a proven track record in coding contests and project development.
 
 ---
 
@@ -125,7 +125,7 @@ Computer Science undergraduate with strong foundations in Data Structures, OOP, 
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaAmanAir&bg_color=0d1117&color=cccccc&line=84C2C0&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=modulusfunctionofy&bg_color=0d1117&color=cccccc&line=84C2C0&point=ffffff&hide_border=true"/>
 
 </p>
 
@@ -148,7 +148,7 @@ Broad interest in undergraduate mathematics and its applications in computing, i
 ![](https://komarev.com/ghpvc/?username=AdityaAmanAir&style=flat-square)
 ## Note*
 **Most** repositories here contain **experiments**, **coursework**, or **small systems** built while learning new tools.
-<h1 align="right">AKA: AdityaAmanAir</h1>
+<h2 align="right">AKA: Genesis</h2>
 
 ---
 
